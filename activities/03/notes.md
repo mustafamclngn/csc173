@@ -9,11 +9,11 @@ How many photos, and what each shows (one line each):
 - Photo 3: Ceramic floor tiles
 
 ## My dataset (Part 7)
-Categories: Bottle vs. Mug
-Photos per category: 21 and 21
-How I took them (places, backgrounds, lighting, angles):
-The photos were taken in various location inside the house such in my desk, living room, cabinets, and in the kitchen.
-Final validation accuracy: transfer 1.0 (100%) · from scratch 0.40 (40%)
+- Categories: Bottle vs. Mug
+- Photos per category: 21 and 21
+- How I took them (places, backgrounds, lighting, angles):
+- The photos were taken in various location inside the house such in my desk, living room, cabinets, and in the kitchen.
+- Final validation accuracy: transfer 1.0 (100%) · from scratch 0.40 (40%)
 
 ## My kernel (Part 2c)
 The numbers, and what it detects:
